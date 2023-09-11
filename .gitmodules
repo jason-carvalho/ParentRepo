@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepo"]
+	path = SubmoduleRepo
+	url = https://github.com/jason-carvalho/SubmoduleRepo
